@@ -1,0 +1,7 @@
+{
+  "name": "ulka-app",
+  "type": "angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
